@@ -12,7 +12,7 @@ body {
 
 .resume-contents {
     min-height: 100vh;
-    width: 70%;
+    width: 80%;
     margin: 2rem auto;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
