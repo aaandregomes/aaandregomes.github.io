@@ -7,12 +7,12 @@
 }
 
 body {
-    background-color: #70c6c7;
+    background-color: #66c0c1;
 }
 
 .resume-contents {
     min-height: 100vh;
-    width: 80%;
+    width: 70%;
     margin: 2rem auto;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
@@ -46,7 +46,7 @@ body {
 
 .name {
     color: #D6DBDF;
-    font-size: 30px;
+    font-size: 25px;
     letter-spacing: 2px;
     text-transform: uppercase;
     text-align: center;
@@ -134,7 +134,7 @@ body {
 
 .right-title {
     color: #70C6C7;
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
     font-weight: bold;
@@ -166,7 +166,7 @@ body {
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -185,7 +185,7 @@ body {
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
